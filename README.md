@@ -1,4 +1,4 @@
-Making things, breaking things, and everything in between.
+![assets](banner.png)
 
 ### Places I Post Stuff
 
@@ -12,6 +12,7 @@ Making things, breaking things, and everything in between.
 <table>
       <tr><td align="center"><img src="/assets/arise.png" width="100" /></td><td>Low maintenance modular & hierarchical static sites designed to withstand the stresses of time.</td><td>https://ari.se.net</td></tr>
       <tr><td align="center"><img src="/assets/cataclysm2040.png" width="100" /> </td><td>Cyberpunk revival & content restoration fork of Cataclysm: Dark Days Ahead</td><td>https://github.com/neonspectra/Cataclysm-2040</td></tr>
+      <tr><td align="center"><img src="/assets/epcc-white.png" width="100" /> </td><td>EPCC – Eclipse Phase 1E Character Creator</td><td>https://github.com/neonspectra/epcc</td></tr>
       <tr><td align="center"><img src="/assets/slakgedakru.png" width="50" /> </td><td>Open source community reference dictionary for the Trigedasleng language</td><td>https://slakgedakru.github.io/</td></tr>
 </table>
 
