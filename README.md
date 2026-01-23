@@ -1,4 +1,9 @@
-!["I was born in the late holocene, and I've seen some shit" — Maddie Kim, Pantheon (2022)](assets/banner.png)
+<a href="https://neosynth.net">
+  <img
+    src="assets/banner.png"
+    alt="&quot;I was born in the late holocene, and I've seen some shit&quot; — Maddie Kim, Pantheon (2022)"
+  />
+</a>
 
 ### Places I Post Stuff
 
