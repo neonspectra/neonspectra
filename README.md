@@ -1,4 +1,4 @@
-![assets](banner.png)
+!["I was born in the late holocene, and I've seen some shit" — Maddie Kim, Pantheon (2022)](assets/banner.png)
 
 ### Places I Post Stuff
 
