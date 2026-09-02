@@ -15,7 +15,7 @@
 ### Stuff I Make
 
 <table>
-      <tr><td align="center"><a href="https://github.com/irrigationreal/monika"><img src="assets/monika.svg" width="3.7%" /> </a></td><td>Monika, a stateful agent built on top of Pi</td><td>https://github.com/irrigationreal/monika</td></tr>
+      <tr><td align="center"><a href="https://github.com/irrigationreal/monika"><img src="assets/monika.svg" width="50" /> </a></td><td>Monika, a stateful agent built on top of Pi</td><td>https://github.com/irrigationreal/monika</td></tr>
       <tr><td align="center"><a href="https://ari.se.net"><img src="assets/arise.png" width="100" /></a></td><td>Low maintenance modular & hierarchical static sites designed to withstand the stresses of time.</td><td>https://ari.se.net</td></tr>
       <tr><td align="center"><a href="https://github.com/neonspectra/epcc"><img src="assets/epcc-white.png" width="100" /> </a></td><td>EPCC – Eclipse Phase 1E Character Creator</td><td>https://github.com/neonspectra/epcc</td></tr>
       <tr><td align="center"><a href="https://slakgedakru.github.io/"><img src="assets/slakgedakru.png" width="50" /> </a></td><td>Open source community reference dictionary for the Trigedasleng language</td><td>https://slakgedakru.github.io/</td></tr>
